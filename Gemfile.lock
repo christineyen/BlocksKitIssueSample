@@ -1,0 +1,27 @@
+GIT
+  remote: git://github.com/CocoaPods/CocoaPods.git
+  revision: 27f011fd2ba036d8e3dfe90649889e15857d8881
+  specs:
+    cocoapods (0.6.0rc1)
+      colored (~> 1.2)
+      escape (~> 0.0.4)
+      xcodeproj (~> 0.1.0)
+
+GIT
+  remote: git://github.com/CocoaPods/Xcodeproj.git
+  revision: 159da46954bc4809591f0b0e00a4783107e4907d
+  specs:
+    xcodeproj (0.1.0)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    colored (1.2)
+    escape (0.0.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cocoapods!
+  xcodeproj!

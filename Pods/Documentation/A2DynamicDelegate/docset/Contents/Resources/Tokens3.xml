@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/NSObject(A2DynamicDelegate).html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/NSObject(A2DynamicDelegate)</TokenIdentifier>
+			<Abstract></Abstract>
+			<DeclaredIn>A2DynamicDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="3"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(A2DynamicDelegate)/dynamicDataSource</TokenIdentifier>
+			<Abstract></Abstract>
+			<DeclaredIn>A2DynamicDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (id)dynamicDataSource</Declaration>
+			
+			
+			<Anchor>//api/name/dynamicDataSource</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(A2DynamicDelegate)/dynamicDelegate</TokenIdentifier>
+			<Abstract></Abstract>
+			<DeclaredIn>A2DynamicDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (id)dynamicDelegate</Declaration>
+			
+			
+			<Anchor>//api/name/dynamicDelegate</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(A2DynamicDelegate)/dynamicDelegateForProtocol:</TokenIdentifier>
+			<Abstract></Abstract>
+			<DeclaredIn>A2DynamicDelegate.h</DeclaredIn>			
+			
+			<Declaration>- (id)dynamicDelegateForProtocol:(Protocol *)protocol</Declaration>
+			
+			
+			<Anchor>//api/name/dynamicDelegateForProtocol:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

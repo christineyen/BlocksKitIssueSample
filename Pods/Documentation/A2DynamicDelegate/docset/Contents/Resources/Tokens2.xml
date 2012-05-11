@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Categories/NSObject(A2BlockDelegate).html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cat/NSObject(A2BlockDelegate)</TokenIdentifier>
+			<Abstract></Abstract>
+			<DeclaredIn>A2BlockDelegate.h</DeclaredIn>
+			
+			<NodeRef refid="2"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(A2BlockDelegate)/linkCategoryBlockProperty:withDataSourceMethod:</TokenIdentifier>
+			<Abstract></Abstract>
+			<DeclaredIn>A2BlockDelegate.h</DeclaredIn>			
+			
+			<Declaration>+ (void)linkCategoryBlockProperty:(NSString *)propertyName withDataSourceMethod:(SEL)selector</Declaration>
+			
+			
+			<Anchor>//api/name/linkCategoryBlockProperty:withDataSourceMethod:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(A2BlockDelegate)/linkDataSourceMethods:</TokenIdentifier>
+			<Abstract></Abstract>
+			<DeclaredIn>A2BlockDelegate.h</DeclaredIn>			
+			
+			<Declaration>+ (void)linkDataSourceMethods:(NSDictionary *)selectorsForPropertyNames</Declaration>
+			
+			
+			<Anchor>//api/name/linkDataSourceMethods:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(A2BlockDelegate)/linkDelegateMethods:</TokenIdentifier>
+			<Abstract></Abstract>
+			<DeclaredIn>A2BlockDelegate.h</DeclaredIn>			
+			
+			<Declaration>+ (void)linkDelegateMethods:(NSDictionary *)selectorsForPropertyNames</Declaration>
+			
+			
+			<Anchor>//api/name/linkDelegateMethods:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(A2BlockDelegate)/linkCategoryBlockProperty:withProtocol:method:</TokenIdentifier>
+			<Abstract></Abstract>
+			<DeclaredIn>A2BlockDelegate.h</DeclaredIn>			
+			
+			<Declaration>+ (void)linkCategoryBlockProperty:(NSString *)propertyName withProtocol:(Protocol *)protocol method:(SEL)selector</Declaration>
+			
+			
+			<Anchor>//api/name/linkCategoryBlockProperty:withProtocol:method:</Anchor>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/intfm/NSObject(A2BlockDelegate)/linkProtocol:methods:</TokenIdentifier>
+			<Abstract></Abstract>
+			<DeclaredIn>A2BlockDelegate.h</DeclaredIn>			
+			
+			<Declaration>+ (void)linkProtocol:(Protocol *)protocol methods:(NSDictionary *)selectorsForPropertyNames</Declaration>
+			
+			
+			<Anchor>//api/name/linkProtocol:methods:</Anchor>
+		</Token>
+		
+	</File>
+</Tokens>

@@ -1,0 +1,7 @@
+PODS:
+  - A2DynamicDelegate (1.0.8)
+  - BlocksKit (1.0.6):
+    - A2DynamicDelegate
+
+DEPENDENCIES:
+  - BlocksKit (~> 1.0.6)
